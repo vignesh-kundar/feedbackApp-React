@@ -1,1 +1,1 @@
-# Reacting to state change .
+# `Reacting to state change.`
